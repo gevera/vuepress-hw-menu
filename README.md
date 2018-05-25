@@ -6,11 +6,11 @@ actionLink: /menu/
 footer: Hungry Wolf BBQ & Catfish Copyright 2018
 ---
 
-<h3 style="color: #C70000; font-family: Birmingham;">
+<h3 class="hwfr">
 All of Our MEAT is Hickory Smoked
 </h3>
 
-DINE-IN. TO-GO. AND CATERING
+<h3 class="banner">DINE-IN. TO-GO. AND CATERING</h3>
 
 <br>
 
@@ -25,9 +25,9 @@ DINE-IN. TO-GO. AND CATERING
 
 ## _Hours of Operation_
 
-> - Mon-Thurs 11-8
-> - Fri & Sat 11-9
-> - Closed on Sundays
+<h3 class="hwfb">Mon-Thurs 11-8</h3>
+<h3 class="hwfb">Fri & Sat 11-9</h3>
+<h3 class="hwfb">Closed on Sundays</h3>
 
 <br>
 
@@ -43,6 +43,8 @@ DINE-IN. TO-GO. AND CATERING
 
 <br>
 
+## Contac
+
 <iframe width="280" height="152" src="https://www.youtube.com/embed/Fbx0Xm_G29Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <style lang="css">
@@ -50,6 +52,23 @@ DINE-IN. TO-GO. AND CATERING
     font-family: 'Birmingham';
     font-style: normal;
     font-weight: normal;
-    src: url('/public/Birmingham.ttf');
+    src: url('/Birmingham.ttf');
   }
+.hwfr {
+  font-family: 'Birmingham';
+  color: #C70000;
+  text-align: center;
+}
+.hwfb {
+  font-family: 'Birmingham';
+  text-align: center;
+  padding: 0;
+}
+.banner {
+  text-align: center;
+  font-family: 'Birmingham';
+  color: white;
+  background: #C70000;
+  padding: 11px;
+}
 </style>
