@@ -25,6 +25,12 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
+<h4 class="hwfr">The Hungry Wolf Staff</h4>
+<h4 class="hwfr">Appreciates Your Business</h4>
+<h4 class="hwfr">Enjoy and GOD Bless!</h4>
+
+<br>
+
 ## _Hours of Operation_
 
 <h3 class="hwfb">Mon-Thurs 11-8</h3>
@@ -32,6 +38,7 @@ All of Our MEAT is Hickory Smoked
 <h3 class="hwfb">Closed on Sundays</h3>
 
 <br>
+<div style="text-align: center;">
 
 | Day       | Time        |
 | ---------:| ----------- |
@@ -42,10 +49,11 @@ All of Our MEAT is Hickory Smoked
 | Friday    | 11AM to 9PM |
 | Saturday  | 11AM to 9PM |
 | Sunday    | Closed      |
+</div>
 
 <br>
 
-## Contact Us
+## Address ~ Contact Us
 <h2 class="hwfb">Hampden & Florence</h2>
 <a href="https://goo.gl/maps/fCk3nLbG7xK2">
 <h3 class="hwfb">9865 E Hampden Ave</h3>
@@ -54,9 +62,15 @@ All of Our MEAT is Hickory Smoked
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1535.9199556417768!2d-104.87449084175128!3d39.65331725995193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c8795ea505691%3A0x6448f44b9b2c7037!2s9865+E+Hampden+Ave%2C+Denver%2C+CO+80231!5e0!3m2!1sen!2sus!4v1527283920336" width="320" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<br>
+
+## Telephone ~ Call Us
+
+<a href="tel:303-750-2344"><h2 class="hwfb">303-750-2344</h2></a>
 
 <br>
 
+<h2 class="hwfb">Let us CATER your next event</h2>
 
 <style lang="css">
 @font-face {
