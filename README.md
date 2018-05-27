@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.jpeg
 actionText: Our Menu
-actionLink: /menu/
+actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Catfish Copyright 2018
 ---
 
@@ -14,12 +14,22 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## _Lunch Specials Daily_
-> From 11AM to 1PM
-- 10 BBQ Wings **$6.50**
-- 10 Hot Wings **$6.50**
-- 10 Fried Wings **$6.50**
-- Pulled Pork Sandwich + Fries **$6.75**
+## _Mon-Fri Lunch Specials_
+> **From 11AM to 1PM**
+> - 10 BBQ Wings: **$6.50**
+> - 10 Hot Wings: **$6.50**
+> - 10 Fried Wings: **$6.50**
+> - Pulled Pork Sandwich + Fries: **$6.75**
+
+<br>
+
+## _SUNDAY Specials_
+> - Smoothered Pork Chops
+> - Smoothered Chicken
+> - Smoothered Beef Tips
+>
+> **All served with Rice + 2 Sides**
+
 
 <br>
 
