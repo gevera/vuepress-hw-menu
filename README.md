@@ -10,7 +10,7 @@ footer: Hungry Wolf BBQ & Catfish Copyright 2018
 All of Our MEAT is Hickory Smoked
 </h3>
 
-<h3 class="banner">DINE-IN. TO-GO. AND CATERING</h3>
+<Banner>DINE-IN. TO-GO. AND CATERING</Banner>
 
 <br>
 
@@ -81,12 +81,5 @@ All of Our MEAT is Hickory Smoked
   font-family: 'Birmingham';
   text-align: center;
   padding: 0;
-}
-.banner {
-  text-align: center;
-  font-family: 'Birmingham';
-  color: white;
-  background: #C70000;
-  padding: 11px;
 }
 </style>
