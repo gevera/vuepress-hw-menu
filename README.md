@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.jpeg
+heroImage: /logo.png
 actionText: Our Menu
 actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Catfish Copyright 2018
@@ -20,6 +20,10 @@ All of Our MEAT is Hickory Smoked
 > - 10 Hot Wings: **$6.50**
 > - 10 Fried Wings: **$6.50**
 > - Pulled Pork Sandwich + Fries: **$6.75**
+
+<br>
+
+<Banner>RIB TIPS WITH FRIES - 8.95</Banner>
 
 <br>
 
