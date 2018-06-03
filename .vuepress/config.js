@@ -15,7 +15,7 @@ module.exports={
                         '/menu/appetizers',
                         '/menu/salads',
                         '/menu/fromfryer',
-                        '/menu/sandwitches',
+                        '/menu/sandwiches',
                         '/menu/sides',
                         '/menu/seafood',
                         '/menu/bbq',
@@ -25,5 +25,5 @@ module.exports={
                      }
                   ]            
             }
-	}
+	  }
 }

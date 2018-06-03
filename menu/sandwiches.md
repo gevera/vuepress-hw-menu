@@ -1,6 +1,6 @@
 # SANDWICHES
 
- <Banner>All sandwitches Include 1 Side</Banner>
+ <Banner>All sandwiches Include 1 Side</Banner>
 
  ### Catfish - 8.75
  ### Whiting - 7.75
