@@ -26,3 +26,4 @@
 > 1 Fried Fillet, 2 Ribs, 2 Jumbo Shrimps, 1 Hot Link and BBQ Chicken
 
 <Disclaimer/>
+<Available/>

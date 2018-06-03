@@ -19,3 +19,4 @@
 > Full Slab with 2 Side Orders
 
 <Disclaimer/>
+<Available/>
