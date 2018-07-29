@@ -3,7 +3,17 @@ module.exports={
 	description: 'Home of the Hungry Wolf BBQ Sauce',
     themeConfig: {
       searchMaxSuggestions: 12,
-			sidebar: {
+       nav: [
+       {
+         text: "Follow us on Facebook",
+	 link: "https://www.facebook.com/Wolfie7878/"
+       },
+       {
+         text: "Review us on Yelp",
+	 link: "https://www.yelp.com/biz/hungry-wolf-bbq-denver-2"
+       }
+     ],          
+	sidebar: {
 	         '/': [
                      [
                         '', 'Main Page',
