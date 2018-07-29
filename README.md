@@ -26,16 +26,6 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## _SUNDAY Specials_
-> - Smoothered Pork Chops
-> - Smoothered Chicken
-> - Smoothered Beef Tips
->
-> **All served with Rice + 2 Sides**
-
-
-<br>
-
 <h4 class="hwfr">The Hungry Wolf Staff</h4>
 <h4 class="hwfr">Appreciates Your Business</h4>
 <h4 class="hwfr">Enjoy and GOD Bless!</h4>
@@ -46,8 +36,7 @@ All of Our MEAT is Hickory Smoked
 
 <h3 class="hwfb">Mon-Thurs 11-8</h3>
 <h3 class="hwfb">Fri & Sat 11-9</h3>
-<h3 class="hwfb">Sundays 12-6</h3>
-
+<h3 class="hwfb">Sundays Closed</h3>
 <br>
 
 
