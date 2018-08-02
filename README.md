@@ -32,13 +32,11 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## _Hours of Operation_
-
+## Hours of Operation
 <h3 class="hwfb">Mon-Thurs 11-8</h3>
 <h3 class="hwfb">Fri & Sat 11-9</h3>
 <h3 class="hwfb">Sundays Closed</h3>
 <br>
-
 
 ## Address ~ Contact Us
 <h2 class="hwfb">Hampden & Florence</h2>
