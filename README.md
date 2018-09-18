@@ -22,7 +22,7 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-<Banner>RIB TIPS WITH FRIES - 8.95</Banner>
+<Banner>RIB TIPS WITH FRIES - 9.95</Banner>
 
 <br>
 
@@ -33,9 +33,10 @@ All of Our MEAT is Hickory Smoked
 <br>
 
 ## Hours of Operation
-<h3 class="hwfb">Mon-Thurs 11-8</h3>
+<h3 class="hwfb">Mondays Closed</h3>
+<h3 class="hwfb">Tue-Thurs 11-8</h3>
 <h3 class="hwfb">Fri & Sat 11-9</h3>
-<h3 class="hwfb">Sundays Closed</h3>
+<h3 class="hwfb">Sundays 12-6</h3>
 <br>
 
 ## Address ~ Contact Us

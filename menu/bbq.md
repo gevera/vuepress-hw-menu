@@ -2,11 +2,11 @@
 
 <Banner>All Dinners Include 2 Sides</Banner>
 
-### BBQ Pork Ribs - 15.75
-### BBQ Beef Ribs - 16.75
-### BBQ Chicken - 13.75
-### BBQ Hot Links - 12.99
-### BBQ Brisket - 16.75
+### BBQ Pork Ribs - 16.75
+### BBQ Beef Ribs - 17.75
+### BBQ Chicken - 14.75
+### BBQ Hot Links - 13.99
+### BBQ Brisket - 17.75
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-## Slab Of Ribs - 23.95
+## Slab Of Ribs - 24.95
 > Full Slab with 2 Side Orders
 
 <Disclaimer/>
