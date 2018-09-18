@@ -4,13 +4,13 @@
 
 |   10  |   20  |   40  |   75  |  100  |
 | ----- | ----- | ----- | ----- | ----- |
-| 8.50  | 14.00 | 25.50 | 45.50 | 56.50 |
+| 9.50  | 15.00 | 26.50 | 46.50 | 57.50 |
 
-### Macaroni & Cheese Bites + Fries 7.95
-### Jalapeño Bites + Fries - 7.95
-### Chiken Tenders + Fries - 7.00
-### Catfish Nuggets + Fries - 7.95
-### Chicken Gizzards - 7.25
+### Macaroni & Cheese Bites + Fries 8.95
+### Jalapeño Bites + Fries - 8.95
+### Chiken Tenders + Fries - 8.00
+### Catfish Nuggets + Fries - 8.95
+### Chicken Gizzards - 8.25
 
 <Disclaimer/>
 <Available/>
