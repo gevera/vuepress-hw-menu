@@ -13,7 +13,7 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## _Mon-Fri Lunch Specials_
+## _Tue-Fri Lunch Specials_
 > **From 11AM to 1PM**
 > - 10 BBQ Wings: **$6.50**
 > - 10 Hot Wings: **$6.50**
@@ -55,6 +55,15 @@ All of Our MEAT is Hickory Smoked
 <br>
 
 <h2 class="hwfb">Let us CATER your next event</h2>
+
+<br>
+<hr/>
+<br>
+
+<Banner>Enjoy limousine rides with</Banner>
+<img src="pic1.jpg" alt="Limousine">
+<h2 class="hwfb">On The Spot Limo</h2>
+<h2 class="hwfb"><a href="tel:720-436-2164">720-436-2164</a></h2>
 
 <style lang="css">
 @font-face {
