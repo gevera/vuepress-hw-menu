@@ -2,24 +2,24 @@
 <Banner>All Dinners Include 2 Sides</Banner>
 
 
-### Fillet Catfish - 15.75
-### Whole Catfish - 13.75
-### Fillet Whiting - 12.96
-### Fillet Perch - 16.75
-### Blackend Catfish - 17.75
+### Fillet Catfish - 16.75
+### Whole Catfish - 14.75
+### Fillet Whiting - 13.96
+### Fillet Perch - 17.75
+### Blackend Catfish - 18.75
 
 <br>
 
-## Seafood Combo - 17.95
+## Seafood Combo - 18.95
 > 3 Jumbo Shrimps and Choice of 2 Fillet Fish
 
 <br>
 
-## Hungry Wolf Pork Platter - 18.95
+## Hungry Wolf Pork Platter - 19.95
 
 <br>
 
-## Hungry Wolf Beef Platter - 21.95
+## Hungry Wolf Beef Platter - 22.95
 
 ##### Both Platters come with
 

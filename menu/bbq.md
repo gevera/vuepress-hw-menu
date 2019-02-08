@@ -10,7 +10,7 @@
 
 <br>
 
-## BBQ Combo - 18.95
+## BBQ Combo - 19.95
 > 2 Ribs, BBQ Chicken, Beef Brisket, Hot Link and 2 Side Orders
 
 <br>
