@@ -13,5 +13,7 @@
 > - French
 > - Thousand Island
 
-<Disclaimer/>
+<br>
+<hr>
 <Available/>
+<Disclaimer/>

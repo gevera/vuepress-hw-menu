@@ -21,9 +21,11 @@
 
 ## Hungry Wolf Beef Platter - 22.95
 
-##### Both Platters come with
+::: danger Both Platters come with
+1 Fried Fillet, 2 Ribs, 2 Jumbo Shrimps, 1 Hot Link and BBQ Chicken
+:::
 
-> 1 Fried Fillet, 2 Ribs, 2 Jumbo Shrimps, 1 Hot Link and BBQ Chicken
-
-<Disclaimer/>
+<br>
+<hr>
 <Available/>
+<Disclaimer/>

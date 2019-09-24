@@ -5,15 +5,16 @@
     @font-face {
     font-family: 'Birmingham';
     font-style: normal;
-    font-weight: normal;
     src: url('/Birmingham.ttf');
   }
 	.banner {
 		  text-align: center;
 		  font-family: 'Birmingham';
 		  color: white;
+			font-weight: bold;
 		  background: #C70000;
 		  padding: 11px;
-		  padding-bottom: 16px; 
+		  padding-bottom: 16px;
+			line-height: 1.5;
 	}
 </style>

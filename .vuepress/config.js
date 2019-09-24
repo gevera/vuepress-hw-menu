@@ -30,10 +30,15 @@ module.exports={
                         '/menu/seafood',
                         '/menu/bbq',
                         '/menu/desserts',
-                        '/menu/beverages'
+                        '/menu/beverages',
+                        '/menu/catering'
                       ]
                      }
                   ]            
             }
-	  }
+	  },
+     head: [
+       ['link', { rel: 'icon', href: '/favicon.ico' }]
+     ],
+     plugins: ['@vuepress/back-to-top', '@vuepress/pwa']
 }

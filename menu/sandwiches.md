@@ -11,5 +11,7 @@
  ### Hot Link - 8.75
  ### Smoked Turkey Leg - 9.75
 
-<Disclaimer/>
+<br>
+<hr>
 <Available/>
+<Disclaimer/>

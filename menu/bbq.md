@@ -18,5 +18,7 @@
 ## Slab Of Ribs - 24.95
 > Full Slab with 2 Side Orders
 
-<Disclaimer/>
+<br>
+<hr>
 <Available/>
+<Disclaimer/>

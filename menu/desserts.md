@@ -8,4 +8,7 @@
 ### Strawberry Ice Cream - 2.50
 ### Chocolate Ice Cream - 2.50
 
+<br>
+<hr>
+<br>
 <Available/>

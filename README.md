@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 actionText: Our Menu
 actionLink: /menu/appetizers
-footer: Hungry Wolf BBQ & Catfish Copyright 2018
+footer: Hungry Wolf BBQ & Catfish Copyright 2019
 ---
 <h3 class="hwfr">
 All of Our MEAT is Hickory Smoked
@@ -54,7 +54,7 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-<h2 class="hwfb">Let us CATER your next event</h2>
+<h2 class="hwfb"><router-link to="/menu/catering">Let us CATER your next event</router-link></h2>
 
 <br>
 <hr/>
@@ -63,7 +63,7 @@ All of Our MEAT is Hickory Smoked
 <Banner>Enjoy limousine rides with</Banner>
 <img src="pic1.jpg" alt="Limousine">
 <h2 class="hwfb">On The Spot Limo</h2>
-<h2 class="hwfb"><a href="tel:720-436-2164">720-436-2164</a></h2>
+<h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2>
 
 <style lang="css">
 @font-face {
