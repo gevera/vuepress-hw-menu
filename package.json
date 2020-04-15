@@ -5,6 +5,7 @@
     "vuepress": "^1.1.0"
   },
   "dependencies": {
+    "@vuepress/core": "^1.4.1",
     "vue-yandex-metrika": "^1.8.3"
   }
 }

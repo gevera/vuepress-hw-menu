@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 actionText: Our Menu
 actionLink: /menu/appetizers
-footer: Hungry Wolf BBQ & Catfish Copyright 2019
+footer: Hungry Wolf BBQ & Catfish Copyright 2020
 ---
 <h3 class="hwfr">
 All of Our MEAT is Hickory Smoked
@@ -13,16 +13,16 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## _Tue-Fri Lunch Specials_
+## _Lunch Specials Tue-Fri_
 > **From 11AM to 1PM**
-> - 10 BBQ Wings: **$6.50**
-> - 10 Hot Wings: **$6.50**
-> - 10 Fried Wings: **$6.50**
-> - Pulled Pork Sandwich + Fries: **$6.75**
+### 10 Wings & a Side - *$6.50*
+> Wing souce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
+### Catfish Sandwich & a Side - *$8.50*
+> One fried filet Catfish, Lettuce, Tomato, Onion & two pieces of White Bread
 
 <br>
 
-<Banner>RIB TIPS WITH FRIES - 9.95</Banner>
+<Banner>RIB TIPS WITH FRIES - $9.95</Banner>
 
 <br>
 

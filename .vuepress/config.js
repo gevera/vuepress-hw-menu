@@ -27,6 +27,7 @@ module.exports={
                         '/menu/fromfryer',
                         '/menu/sandwiches',
                         '/menu/sides',
+                        '/menu/platters',
                         '/menu/seafood',
                         '/menu/bbq',
                         '/menu/desserts',
