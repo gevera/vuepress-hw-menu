@@ -1,7 +1,7 @@
 <template>
 	<div class="banner"><slot></slot></div>
 </template>
-<style>
+<style scoped>
     @font-face {
     font-family: 'Birmingham';
     font-style: normal;

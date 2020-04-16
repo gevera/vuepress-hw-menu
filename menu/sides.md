@@ -1,7 +1,7 @@
 # SIDES
 
 ### Fried Okra - 4.75
-### Hushpuppies - 4.75
+### Hush Puppies - 4.75
 ### Red Beans & Rice - 4.75
 ### Macaroni & Cheese - 4.75
 ### Coleslaw - 4.75

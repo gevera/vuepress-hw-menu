@@ -13,10 +13,10 @@
 
 <br>
 
-## Slab Of Ribs - 25.95
+### Slab Of Ribs - 25.95
 > Full 12-Bone Slab with 2 Side Orders
 
-> Seitch to Beef +$2.00
+> Switch to Beef +$2.00
 
 <br>
 <hr>

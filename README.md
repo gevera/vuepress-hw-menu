@@ -5,7 +5,7 @@ actionText: Our Menu
 actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Catfish Copyright 2020
 ---
-<h3 class="hwfr">
+<h3 class="hwfb">
 All of Our MEAT is Hickory Smoked
 </h3>
 
@@ -16,7 +16,7 @@ All of Our MEAT is Hickory Smoked
 ## _Lunch Specials Tue-Fri_
 > **From 11AM to 1PM**
 ### 10 Wings & a Side - *$6.50*
-> Wing souce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
+> Wing sauce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
 ### Catfish Sandwich & a Side - *$8.50*
 > One fried filet Catfish, Lettuce, Tomato, Onion & two pieces of White Bread
 
@@ -26,9 +26,7 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-<h4 class="hwfr">The Hungry Wolf Staff</h4>
-<h4 class="hwfr">Appreciates Your Business</h4>
-<h4 class="hwfr">Enjoy and GOD Bless!</h4>
+<h3 class="hwfb">The Hungry Wolf is A Family Owned and Operated Business</h3>
 
 <br>
 
@@ -39,8 +37,15 @@ All of Our MEAT is Hickory Smoked
 <h3 class="hwfb">Sundays 12-6</h3>
 <br>
 
-## Address ~ Contact Us
-<h2 class="hwfb">Hampden & Florence</h2>
+
+## Telephone
+<h3 class="hwfb">For To-Go, Catering Orders and other inquiries call us today</h3>
+<h1 class="hwfb"><a href="tel:303-750-2344">303-750-2344</a></h1>
+
+<br>
+
+## Address
+<h3 class="hwfb">Hampden & Florence</h3>
 <a href="https://goo.gl/maps/fCk3nLbG7xK2">
 <h3 class="hwfb">9865 E Hampden Ave</h3>
 <h3 class="hwfb">Denver, CO 80231</h3>
@@ -48,13 +53,13 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-## Telephone ~ Call Us
-
-<h1 class="hwfb"><a href="tel:303-750-2344">303-750-2344</a></h1>
+<h2 class="hwfb">Let us <router-link to="/menu/catering" class="hwfr">CATER</router-link> your next event</h2>
 
 <br>
 
-<h2 class="hwfb"><router-link to="/menu/catering">Let us CATER your next event</router-link></h2>
+<h3 class="hwfb">The Hungry Wolf Staff</h3>
+<h3 class="hwfb">Appreciates Your Business</h3>
+<h3 class="hwfb">Enjoy and GOD Bless!</h3>
 
 <br>
 <hr/>

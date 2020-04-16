@@ -2,8 +2,13 @@ module.exports={
 	title: 'Hungry Wolf BBQ',
 	description: 'Home of the Hungry Wolf BBQ Sauce',
     themeConfig: {
+      displayAllHeaders: true,
       searchMaxSuggestions: 12,
        nav: [
+       {
+         text: 'Contact Us',
+         link: '/#telephone-call-us'
+       },
        {
          text: "Follow us on Facebook",
 	 link: "https://www.facebook.com/Wolfie7878/"
@@ -15,9 +20,7 @@ module.exports={
      ],          
 	sidebar: {
 	         '/': [
-                     [
-                        '', 'Main Page',
-                     ],
+                     ['', 'Main Page'],
                      {
                       title: 'Menu',
                       collapsable: false,
@@ -32,9 +35,10 @@ module.exports={
                         '/menu/bbq',
                         '/menu/desserts',
                         '/menu/beverages',
+                        '/menu/alacarte',
                         '/menu/catering'
                       ]
-                     }
+                     },
                   ]            
             }
 	  },

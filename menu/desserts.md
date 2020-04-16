@@ -1,6 +1,6 @@
 # DESSERTS
 
-<Banner>Add Vanilla, Chocolate or Strawberry Icecream for $2.50</Banner>
+<Banner>Add Vanilla, Chocolate or Strawberry Ice Cream for $2.50</Banner>
 
 ### Chocolate Pudding Pound Cake - 4.85
 > Rich and moist deep chocolate cake

@@ -5,7 +5,7 @@
  ### Catfish Sandwich - 9.85
  > 1 Filet Catfish with lettuce, tomatoes, pickles and onions
  ### Whiting Sandwich - 8.95
- > 1 Filet whitning with lettuce, tomatoes, pickles and onions
+ > 1 Filet whiting with lettuce, tomatoes, pickles and onions
  ### Perch Sandwich - 9.65
  > 1 Filet perch with lettuce, tomatoes, pickles and onions
  ### HotLink Sandwich- 8.75
@@ -17,7 +17,7 @@
 
  > Switch to beef +$1.00
  ### Pulled Pork Sandwich- 8.75
- ### BBQ Chopped Beef Sandwich- 11.75
+ ### Brisket Sandwich- 11.75
 
 <br>
 <hr>
