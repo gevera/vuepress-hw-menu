@@ -1,12 +1,12 @@
 # CATERING
 
-### The Pup Package - 13.50
+### The Pup Package - *13.50*
 > One Meat - Two sides
 
-### The Classic Wolf - 15.00
+### The Classic Wolf - *15.00*
 > Two Meats - Two Sides
 
-### The Hungry Wolf Package - 16.50
+### The Hungry Wolf Package - *16.50*
 > Three Meats - Three Sides
 
 <hr>
@@ -20,7 +20,7 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 :::
 <hr>
 
-### Appetizers - 5.50
+### Appetizers - *5.50*
 
 > Choose any 1 of our delicious appetizers
 > - Mac & Cheese Bites
@@ -47,7 +47,7 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 
 
 
-### Desserts - 4.00
+### Desserts - *4.00*
 > Choose any 1 of our desserts
 > - Peach Cobbler
 > - Sweet Potato Pie
@@ -59,10 +59,10 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 <br>
 <hr>
 
-### Drinks - 3.15 <Badge text="A Liter" type="error"/>
+### Drinks - *3.15* <Badge text="A Liter" type="error"/>
 > 1 Liter of Any Coke Products
 
-### Cornbread - 3.50 <Badge text="A Pan" type="error"/>
+### Cornbread - *3.50* <Badge text="A Pan" type="error"/>
 > Add cornbread to complete your meals
 >
 > Four slices in a pan

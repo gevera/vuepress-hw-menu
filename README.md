@@ -19,6 +19,7 @@ All of Our MEAT is Hickory Smoked
 > Wing sauce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
 ### Catfish Sandwich & a Side - *$8.50*
 > One fried filet Catfish, Lettuce, Tomato, Onion & two pieces of White Bread
+### Pulled Pork & a Side - *6.75*
 
 <br>
 

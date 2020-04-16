@@ -10,17 +10,17 @@
 
 > Choose up to 2 flavors starting at 20 Wings 
 
-### Rib Tips & a Side - 9.95
+### Rib Tips & a Side - *9.95*
 > 10 Rib Tips
-### Chicken Gizzards - 8.25
+### Chicken Gizzards - *8.25*
 > Fried Gizzards and Hearts
-### Catfish Nuggets & a Side - 8.95
+### Catfish Nuggets & a Side - *8.95*
 > 10 Fried Catfish Nuggets
-### Macaroni & Cheese Bites & a Side - 8.95
+### Macaroni & Cheese Bites & a Side - *8.95*
 > Fried Stuffed Mac and Cheese
-### Jalapeño Bites & a Side - 8.95
+### Jalapeño Bites & a Side - *8.95*
 > Fried Cream Cheese or Cheddar Stuffed Jalapeños
-### Chicken Tenders & a Side - 8.00
+### Chicken Tenders & a Side - *8.00*
 > Five Crispy Chicken Tenders
 
 <br>
