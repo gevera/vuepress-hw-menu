@@ -6,12 +6,13 @@
 ### 1 Filet Perch - 7.50
 ### 1 Filet Whiting - 7.00
 ### 1 Hot Link - 5.50
-### Ribtips (10) - 7.00
+### Rib Tips - 7.00
+> 10 Delicious Rib Tips 
 ### 1 Rib - 2.50
 > Pork or Beef
 ### Turkey Leg - 7.00
 ### 1 Jumbo Shrimp - 7.25
-### 1 Porkchop - 5.50
+### 1 Pork Chop - 5.50
 
 ## By The pound
 

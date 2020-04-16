@@ -15,7 +15,7 @@
 ## Dressings
 ::: tip Dressing Choices:
 - Ranch
-- Bleu Cheese
+- Blue Cheese
 - French
 - Thousand Island
 - Italian

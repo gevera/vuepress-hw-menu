@@ -7,7 +7,7 @@ module.exports={
        nav: [
        {
          text: 'Contact Us',
-         link: '/#telephone-call-us'
+         link: '/#telephone'
        },
        {
          text: "Follow us on Facebook",
