@@ -12,8 +12,9 @@ const router = new VueRouter({
 	                    path: '/menu/bbq',
 	                    path: '/menu/desserts',
 	                    path: '/menu/beverages',
+                            path: '/menu/alacarte',',
                             path: '/menu/catering',
-	                    path: '/#phone'
+	                    path: '/#telephone'
 })
 
 export default ({
