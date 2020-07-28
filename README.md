@@ -3,22 +3,35 @@ home: true
 heroImage: /logo.png
 actionText: Our Menu
 actionLink: /menu/appetizers
-footer: Hungry Wolf BBQ & Catfish Copyright 2020
+footer: Hungry Wolf BBQ & Soul Food Copyright 2020
 ---
+  
+  <h2 class="hwfb">A reminder for our guests and friends!</h2>
+  <Banner>we will be closed for orders till our open day</Banner>
+  <h3 class="reg">August 7th</h3>
+  <h3 class="hwfb">At our new location</h3>
+  <a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
+  <h3 class="reg">2710 S Havana Street</h3>
+  <h3 class="reg">Aurora, CO 80014</h3>
+  </a>
+<hr>
+
+<Banner>DINE-INs are by reservations only</Banner>
+
+
 <h3 class="hwfb">
 All of Our MEAT is Hickory Smoked
 </h3>
-
-<Banner>DINE-IN. TO-GO. AND CATERING</Banner>
 
 <br>
 
 ## _Lunch Specials Tue-Fri_
 > **From 11AM to 1PM**
+
+
 ### 10 Wings & a Side - *$6.50*
 > Wing sauce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
-### Catfish Sandwich & a Side - *$8.50*
-> One fried filet Catfish, Lettuce, Tomato, Onion & two pieces of White Bread
+
 ### Pulled Pork & a Side - *6.75*
 
 <br>
@@ -32,29 +45,35 @@ All of Our MEAT is Hickory Smoked
 <br>
 
 ## Hours of Operation
-<h3 class="hwfb">Mondays Closed</h3>
-<h3 class="hwfb">Tue-Thurs 11-8</h3>
-<h3 class="hwfb">Fri & Sat 11-9</h3>
-<h3 class="hwfb">Sundays 12-6</h3>
+<h3 class="reg flxb"><span>Mondays</span> <span>Closed</span></h3>
+<h3 class="reg flxb"><span>Tue-Thurs</span> <span>11-8</span></h3>
+<h3 class="reg flxb"><span>Fri & Sat</span> <span>11-9</span></h3>
+<h3 class="reg flxb"><span>Sundays</span> <span>12-6</span></h3>
 <br>
 
 
 ## Telephone
 <h3 class="hwfb">For To-Go, Catering Orders and other inquiries call us today</h3>
-<h1 class="hwfb"><a href="tel:303-750-2344">303-750-2344</a></h1>
+<h3 class="reg"><a href="tel:720-436-2164">720-436-2164</a></h3>
+<h3 class="reg"><a href="tel:719-341-9966">719-341-9966</a></h3>
+
+<br>
+
+## Email
+
+<h3 class="reg"><a href="mailto:hwolfbbq@gmail.com">hwolfbbq@gmail.com</a></h3>
 
 <br>
 
 ## Address
-<h3 class="hwfb">Hampden & Florence</h3>
-<a href="https://goo.gl/maps/fCk3nLbG7xK2">
-<h3 class="hwfb">9865 E Hampden Ave</h3>
-<h3 class="hwfb">Denver, CO 80231</h3>
+<a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
+<h3 class="reg">2710 S Havana Street</h3>
+<h3 class="reg">Aurora, CO 80014</h3>
 </a>
 
 <br>
 
-<h2 class="hwfb">Let us <router-link to="/menu/catering" class="hwfr">CATER</router-link> your next event</h2>
+<h2 class="hwfb">Let us <router-link to="/menu/catering" class="hwfr">CATER</router-link> your next <router-link to="/menu/events" class="hwfr">EVENT</router-link></h2>
 
 <br>
 
@@ -71,21 +90,20 @@ All of Our MEAT is Hickory Smoked
 <h2 class="hwfb">On The Spot Limo</h2>
 <h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2>
 
-<style lang="css">
-@font-face {
-    font-family: 'Birmingham';
-    font-style: normal;
-    font-weight: normal;
-    src: url('/Birmingham.ttf');
+<script>
+  export default {
+    data() {
+      return {
+         modalOn: false
+      }
+    },
+  mounted() {
+    console.log('Hi!'); 
+  },
+  methods: {
+    closeModal() {
+      this.$siteData.themeConfig.modalOn = false;
+    }
   }
-.hwfr {
-  font-family: 'Birmingham';
-  color: #C70000;
-  text-align: center;
-}
-.hwfb {
-  font-family: 'Birmingham';
-  text-align: center;
-  padding: 0;
-}
-</style>
+};
+</script>

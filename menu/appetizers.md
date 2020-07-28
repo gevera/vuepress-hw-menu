@@ -4,13 +4,13 @@
 
 | 10 pcs | 20 pcs | 40 pcs | 75 pcs | 100 pcs|
 | ------ | ------ | ------ | ------ | ------ |
-|  8.50  | 13.50  | 25.00  | 45.00  | 56.00  |
+|  9.50  | 14.50  | 26.50  | 46.50  | 58.50  |
 
 > Dipped in any of Our Sauces: Hot BBQ, Sweet BBQ, Honey Hot or Original Breaded
 
 > Choose up to 2 flavors starting at 20 Wings 
 
-### Rib Tips & a Side - *9.95*
+### Rib Tips & a Side - *10.95*
 > 10 Rib Tips
 ### Chicken Gizzards - *8.25*
 > Fried Gizzards and Hearts

@@ -36,7 +36,8 @@ module.exports={
                         '/menu/desserts',
                         '/menu/beverages',
                         '/menu/alacarte',
-                        '/menu/catering'
+                        '/menu/catering',
+                        '/menu/events'
                       ]
                      },
                   ]            
@@ -47,3 +48,6 @@ module.exports={
      ],
      plugins: ['@vuepress/back-to-top', '@vuepress/pwa']
 }
+
+// we will be closed for orders till our open day August 7th.
+// And when we open if they want to dine in it's by reservations only

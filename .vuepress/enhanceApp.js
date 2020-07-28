@@ -1,5 +1,5 @@
-import VueRouter from 'vue-router'
-import VueYandexMetrika from 'vue-yandex-metrika'
+import VueRouter from 'vue-router';
+import VueYandexMetrika from 'vue-yandex-metrika';
 
 const router = new VueRouter({
 	                    path: '/',
@@ -23,13 +23,18 @@ export default ({
   router, // the router instance for the app
   siteData // site metadata
 }) => {
+  // siteData.themeConfig.modalOn = false;
+  // async function runModal() {
+  //   await setTimeout(() => siteData.themeConfig.modalOn = true, 5000);
+  // };
 	if (typeof process === 'undefined') { // process is undefined in a browser
         Vue.use(VueYandexMetrika, {
         id: 55464172,
         router: router,
         env: process.env.NODE_ENV
     // other options
-})
+       });
     }
+    // runModal();
   // ...apply enhancements to the app
 }

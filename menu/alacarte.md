@@ -2,10 +2,10 @@
 
 ## All by itself
 
-### 1 Catfish Filet - *6.50*
-### 1 Filet Perch - *7.50*
+### 1 Catfish Filet - *7.50*
+### 1 Filet Perch - *8.50*
 ### 1 Filet Whiting - *7.00*
-### 1 Hot Link - *5.50*
+### 1 Hot Link - *6.50*
 ### Rib Tips - *7.00*
 > 10 Delicious Rib Tips 
 ### 1 Rib - *2.50*
@@ -25,14 +25,14 @@
 ### Chicken
 > 1/4 - 4.50, 1/2 - 7.75, Whole - 12.25
 ### Ribs
-> 1/2 Slab - 13.50, 1 Slab - 18.95
+> 1/2 Slab - 13.75, 1 Slab - 19.95
 
 ## By The Pan
 
-### Whole Peach Cobbler - *13.50*
+### Whole Peach Cobbler - *20.00*
 > Feeds 4-5
-### Whole Sweet Potato Pie - *12.99*
+### Whole Sweet Potato Pie - *13.99*
 > Feeds 3-4
-### Whole Pan Cornbread - *7.95*
+### Whole Pan Cornbread - *12.95*
 > Feeds 3-4
 
