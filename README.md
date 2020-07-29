@@ -50,8 +50,7 @@ All of Our MEAT is Hickory Smoked
 
 ## Telephone
 <h3 class="hwfb">For To-Go, Catering Orders and other inquiries call us today</h3>
-<h3 class="reg"><a href="tel:720-436-2164">720-436-2164</a></h3>
-<h3 class="reg"><a href="tel:719-341-9966">719-341-9966</a></h3>
+<h3 class="reg"><a href="tel:303-750-2344">303-750-2344</a></h3>
 
 <br>
 

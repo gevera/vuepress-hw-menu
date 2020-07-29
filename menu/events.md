@@ -16,8 +16,9 @@ IF YOU WOULD LIKE TO RENT SPACE FOR BIRTHDAYS, WEDDINGS, OR ANY SPECIAL OCCASION
 
 > FOR MORE SERVICES AND PRICING
 
-<h3 class="reg"><a href="tel:720-436-2164">720-436-2164</a></h3>
+<h3 class="reg"><a href="tel:303-750-2344">303-750-2344</a></h3>
 <h2 class="hwfb">Or</h2>
+<h3 class="reg"><a href="tel:720-436-2164">720-436-2164</a></h3>
 <h3 class="reg"><a href="tel:719-341-9966">719-341-9966</a></h3>
 
 <br>

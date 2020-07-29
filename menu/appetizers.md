@@ -11,7 +11,7 @@
 > Choose up to 2 flavors starting at 20 Wings 
 
 ### Rib Tips & a Side - *10.95*
-> Fried Rib Tips   
+> BBQ Rib Tips   
 ### Chicken Gizzards - *8.25*
 > Fried Gizzards
 ### Catfish Nuggets & a Side - *8.95*
