@@ -16,7 +16,7 @@ Chicken, Pulled Pork, Brisket, Hotlinks, Ribs, Catfish
 :::
 
 ::: danger Side Choices:
-Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked Beans, Fries, Onion Rings, Corn on Cob
+Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked Beans, Fries, Onion Rings, Corn, Yams, Black Eyed Peas, Cabbage, Mashed Potatoes
 :::
 <hr>
 
@@ -76,9 +76,11 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
   <p>Catering orders are for parties of <em>10</em> or more.</p>
   <p>Orders for parties <em>20+</em> must be made a week prior from the ready date.</p>
   <p>All catering orders are equipped with sauce.</p>
-  <p>Utensils & plate ware can be provided fr an additional charge of 2.50 per person.</p>
+  <p>Utensils & plate ware can be provided for an additional charge of 2.50 per person.</p>
 </div>
 
+<br>
+<hr>
 <Available/>
 <Disclaimer/>
 

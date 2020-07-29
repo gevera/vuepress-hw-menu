@@ -11,11 +11,11 @@
 > Choose up to 2 flavors starting at 20 Wings 
 
 ### Rib Tips & a Side - *10.95*
-> 10 Rib Tips
+> Fried Rib Tips   
 ### Chicken Gizzards - *8.25*
-> Fried Gizzards and Hearts
+> Fried Gizzards
 ### Catfish Nuggets & a Side - *8.95*
-> 10 Fried Catfish Nuggets
+> Fried Catfish Nuggets
 ### Macaroni & Cheese Bites & a Side - *8.95*
 > Fried Stuffed Mac and Cheese
 ### Jalapeño Bites & a Side - *8.95*

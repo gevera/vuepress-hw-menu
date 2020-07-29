@@ -1,6 +1,6 @@
 # SANDWICHES
 
- <Banner>All sandwiches Include 1 Side</Banner>
+ <Banner>All sandwiches Include 1 <router-link to="/menu/sides" class="white">Side</router-link></Banner>
 
  ### Catfish Sandwich - *9.85*
  > 1 Filet Catfish with lettuce, tomatoes, pickles and onions
@@ -15,7 +15,6 @@
  ### Rib Sandwich - *9.25*
  > 3 ribs and two pieces of white bread.
 
- > Switch to beef +$1.00
  ### Pulled Pork Sandwich - *8.75*
  ### Brisket Sandwich - *11.75*
 

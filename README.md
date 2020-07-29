@@ -36,19 +36,15 @@ All of Our MEAT is Hickory Smoked
 
 <br>
 
-<Banner>RIB TIPS WITH FRIES - $9.95</Banner>
-
-<br>
-
 <h3 class="hwfb">The Hungry Wolf is A Family Owned and Operated Business</h3>
 
 <br>
 
 ## Hours of Operation
 <h3 class="reg flxb"><span>Mondays</span> <span>Closed</span></h3>
-<h3 class="reg flxb"><span>Tue-Thurs</span> <span>11-8</span></h3>
-<h3 class="reg flxb"><span>Fri & Sat</span> <span>11-9</span></h3>
-<h3 class="reg flxb"><span>Sundays</span> <span>12-6</span></h3>
+<h3 class="reg flxb"><span>Tue-Thurs</span> <span>11AM - 8PM</span></h3>
+<h3 class="reg flxb"><span>Fri & Sat</span> <span>11AM - 10PM</span></h3>
+<h3 class="reg flxb"><span>Sundays</span> <span>12PM - 6PM</span></h3>
 <br>
 
 
@@ -89,21 +85,3 @@ All of Our MEAT is Hickory Smoked
 <img src="pic1.jpg" alt="Limousine">
 <h2 class="hwfb">On The Spot Limo</h2>
 <h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2>
-
-<script>
-  export default {
-    data() {
-      return {
-         modalOn: false
-      }
-    },
-  mounted() {
-    console.log('Hi!'); 
-  },
-  methods: {
-    closeModal() {
-      this.$siteData.themeConfig.modalOn = false;
-    }
-  }
-};
-</script>

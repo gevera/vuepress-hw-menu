@@ -33,11 +33,12 @@ module.exports={
                         '/menu/platters',
                         '/menu/seafood',
                         '/menu/bbq',
+                        '/menu/soulfood',
                         '/menu/desserts',
                         '/menu/beverages',
                         '/menu/alacarte',
                         '/menu/catering',
-                        '/menu/events'
+                        '/menu/events',
                       ]
                      },
                   ]            

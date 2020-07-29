@@ -1,6 +1,6 @@
 # BBQ DINNERS
 
-<Banner>All Dinners Include 2 Sides</Banner>
+<Banner>All Dinners Include Two <router-link to="/menu/sides" class="white">Sides</router-link>, a <router-link to="/menu/salads" class="white">Salad</router-link> and optional Cornbread</Banner>
 
 ### BBQ Chicken Dinner - *15.75*
 > 1/2 BBQ Chicken
@@ -15,8 +15,6 @@
 
 ### Slab Of Ribs - *25.95*
 > Full 12-Bone Slab with 2 Side Orders
-
-> Switch to Beef +$2.00
 
 <br>
 <hr>

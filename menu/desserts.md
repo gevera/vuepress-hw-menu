@@ -16,9 +16,9 @@
 <br>
 <hr>
 
-### Vanilla Ice Cream - *2.50*
-### Strawberry Ice Cream - *2.50*
-### Chocolate Ice Cream - *2.50*
+### Vanilla Ice Cream - *3.50*
+### Strawberry Ice Cream - *3.50*
+### Chocolate Ice Cream - *3.50*
 
 <br>
 <hr>

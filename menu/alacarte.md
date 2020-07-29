@@ -3,11 +3,11 @@
 ## All by itself
 
 ### 1 Catfish Filet - *7.50*
-### 1 Filet Perch - *8.50*
-### 1 Filet Whiting - *7.00*
+### Filet Perch - *8.50*
+### Filet Whiting - *7.00*
 ### 1 Hot Link - *6.50*
 ### Rib Tips - *7.00*
-> 10 Delicious Rib Tips 
+> Delicious Rib Tips 
 ### 1 Rib - *2.50*
 > Pork or Beef
 ### Turkey Leg - *7.00*
