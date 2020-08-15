@@ -2,7 +2,7 @@
 
 <Banner>All dinners include an optional side salad</Banner>
 
-### Side Salad - *3.95*
+### Side Salad - *4.95*
 > Green lettuce topped with tomatoes, onions, shredded cheese and croutons
 
 ### Caesar - *5.95*
