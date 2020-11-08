@@ -7,5 +7,9 @@
   "dependencies": {
     "@vuepress/core": "^1.5.3",
     "vue-yandex-metrika": "^1.8.3"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   }
 }

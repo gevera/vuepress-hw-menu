@@ -13,9 +13,6 @@ footer: Hungry Wolf BBQ & Soul Food Copyright 2020
   </a>
 <hr>
 
-<Banner>DINE-INs are by reservations only</Banner>
-
-
 <h3 class="hwfb">
 All of Our MEAT is Hickory Smoked
 </h3>
