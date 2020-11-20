@@ -5,7 +5,7 @@ actionText: Our Menu
 actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Soul Food Copyright 2020
 ---
-  
+
   <h2 class="hwfb">We welcome you at our new location!</h2>
   <a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
   <h3 class="reg">2710 S Havana Street</h3>
@@ -13,21 +13,29 @@ footer: Hungry Wolf BBQ & Soul Food Copyright 2020
   </a>
 <hr>
 
-
 <h3 class="hwfb">
 All of Our MEAT is Hickory Smoked
 </h3>
 
+<a href="https://www.clover.com/online-ordering/hungry-wolf-bbq-and-soul-food-aurora">
+<h3 class="hwfr">
+Click here to place orders online
+</h3>
+</a>
+
+<Banner>Deep fried 12lb - 15lb TURKEY for $59.99</Banner>
+
 <br>
 
 ## _Lunch Specials Tue-Fri_
+
 > **From 11AM to 1PM**
 
+### 10 Wings & a Side - _\$6.50_
 
-### 10 Wings & a Side - *$6.50*
 > Wing sauce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
 
-### Pulled Pork & a Side - *6.75*
+### Pulled Pork & a Side - _6.75_
 
 <br>
 
@@ -36,14 +44,15 @@ All of Our MEAT is Hickory Smoked
 <br>
 
 ## Hours of Operation
+
 <h3 class="reg flxb"><span>Mondays</span> <span>Closed</span></h3>
 <h3 class="reg flxb"><span>Tue-Thurs</span> <span>11AM - 8PM</span></h3>
 <h3 class="reg flxb"><span>Fri & Sat</span> <span>11AM - 10PM</span></h3>
 <h3 class="reg flxb"><span>Sundays</span> <span>12PM - 6PM</span></h3>
 <br>
 
-
 ## Telephone
+
 <h3 class="hwfb">For To-Go, Catering Orders and other inquiries call us today</h3>
 <h3 class="reg"><a href="tel:303-750-2344">303-750-2344</a></h3>
 
@@ -56,6 +65,7 @@ All of Our MEAT is Hickory Smoked
 <br>
 
 ## Address
+
 <a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
 <h3 class="reg">2710 S Havana Street</h3>
 <h3 class="reg">Aurora, CO 80014</h3>
@@ -77,5 +87,6 @@ All of Our MEAT is Hickory Smoked
 
 <Banner>Enjoy limousine rides with</Banner>
 <img src="pic1.jpg" alt="Limousine">
+
 <h2 class="hwfb">On The Spot Limo</h2>
 <h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2>
