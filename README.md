@@ -6,10 +6,10 @@ actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Soul Food Copyright 2020
 ---
 
-  <h2 class="hwfb">We welcome you at our new location!</h2>
-  <a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
-  <h3 class="reg">2710 S Havana Street</h3>
-  <h3 class="reg">Aurora, CO 80014</h3>
+  <h2 class="hwfb">We are opening our doors in September at our new location!</h2>
+  <a href="https://goo.gl/maps/UcrVEvaH4CKiuz9Q6" target="_blank">
+  <h3 class="reg">13110 East Mississippi Avenue</h3>
+  <h3 class="reg">Aurora, CO 80012</h3>
   </a>
 <hr>
 
