@@ -66,9 +66,9 @@ Click here to place orders online
 
 ## Address
 
-<a href="https://goo.gl/maps/RXativMF9gdDsQxz9" target="_blank">
-<h3 class="reg">2710 S Havana Street</h3>
-<h3 class="reg">Aurora, CO 80014</h3>
+<a href="https://goo.gl/maps/UcrVEvaH4CKiuz9Q6" target="_blank">
+<h3 class="reg">13110 East Mississippi Avenue</h3>
+<h3 class="reg">Aurora, CO 80012</h3>
 </a>
 
 <br>
