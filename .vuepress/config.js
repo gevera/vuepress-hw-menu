@@ -4,6 +4,7 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true,
     searchMaxSuggestions: 12,
+    searchPlaceholder: 'Search...',
     nav: [
       {
         text: 'Contact Us',
@@ -30,7 +31,6 @@ module.exports = {
           collapsable: false,
           children: [
             '/menu/appetizers',
-            '/menu/salads',
             '/menu/fromfryer',
             '/menu/sandwiches',
             '/menu/sides',
@@ -42,7 +42,6 @@ module.exports = {
             '/menu/beverages',
             '/menu/alacarte',
             '/menu/catering',
-            '/menu/events',
           ]
         },
       ]

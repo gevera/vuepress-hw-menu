@@ -6,7 +6,6 @@ actionLink: /menu/appetizers
 footer: Hungry Wolf BBQ & Soul Food Copyright 2020
 ---
 
-  <h2 class="hwfb">We are opening our doors in September at our new location!</h2>
   <a href="https://goo.gl/maps/UcrVEvaH4CKiuz9Q6" target="_blank">
   <h3 class="reg">13110 East Mississippi Avenue</h3>
   <h3 class="reg">Aurora, CO 80012</h3>
@@ -23,7 +22,7 @@ Click here to place orders online
 </h3>
 </a>
 
-<Banner>Deep fried 12lb - 15lb TURKEY for $59.99</Banner>
+<!-- <Banner>Deep fried 12lb - 15lb TURKEY for $59.99</Banner> -->
 
 <br>
 
@@ -31,25 +30,29 @@ Click here to place orders online
 
 > **From 11AM to 1PM**
 
-### 10 Wings & a Side - _\$6.50_
+### 10 Wings & a Side - 7.50
 
 > Wing sauce flavors: Original Breaded, Sweet BBQ, Hot BBQ, Honey Hot
 
-### Pulled Pork & a Side - _6.75_
+### Pulled Pork Sand & a Side - 7.75
 
 <br>
 
-<h3 class="hwfb">The Hungry Wolf is A Family Owned and Operated Business</h3>
+<h3 class="hwfb">The Hungry Wolf is Black Owned and Family Operated Business Since 2018</h3>
 
 <br>
+
+<Banner>Limited dine-in available</Banner>
 
 ## Hours of Operation
 
-<h3 class="reg flxb"><span>Mondays</span> <span>Closed</span></h3>
-<h3 class="reg flxb"><span>Tue-Thurs</span> <span>11AM - 8PM</span></h3>
-<h3 class="reg flxb"><span>Fri & Sat</span> <span>11AM - 10PM</span></h3>
-<h3 class="reg flxb"><span>Sundays</span> <span>12PM - 6PM</span></h3>
+<h3 class="reg flxb"><span>Sundays & Mondays</span> <span>Closed</span></h3>
+<h3 class="reg flxb"><span>Tuesday-Thursday</span> <span>11AM - 7PM</span></h3>
+<h3 class="reg flxb"><span>Friday & Saturday</span> <span>11AM - 8PM</span></h3>
 <br>
+
+<Banner>Booth Reservations $15 - Must call in advance</Banner>
+
 
 ## Telephone
 
@@ -83,10 +86,10 @@ Click here to place orders online
 
 <br>
 <hr/>
-<br>
 
-<Banner>Enjoy limousine rides with</Banner>
+
+<!-- <Banner>Enjoy limousine rides with</Banner>
 <img src="pic1.jpg" alt="Limousine">
 
 <h2 class="hwfb">On The Spot Limo</h2>
-<h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2>
+<h2 class="hwfb" id="#phone"><a href="tel:720-436-2164">720-436-2164</a></h2> -->

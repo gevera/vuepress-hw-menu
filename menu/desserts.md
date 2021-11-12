@@ -6,12 +6,12 @@
 > Rich and moist deep chocolate cake
 ### Strawberry Pudding Pound Cake - *5.85*
 > Made with fresh strawberries and covered in a sweet icing
-### Peach Cobbler - *5.85*
+### Peach Cobbler - *6.85*
 > Sweet, ripe peaches topped with a flakey crust
-### Sweet Potato Pie - *5.85*
+### Sweet Potato Pie - *6.85*
 > Made with a buttery flakey crust and a creamy filling
-### Banana Pudding - *5.85*
-> Available only on Sundays
+### Banana Pudding - *5.85* <Badge text="Saturdays Only" type="error"/> 
+> Available only on Saturday
 
 <br>
 <hr>

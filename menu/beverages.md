@@ -7,6 +7,8 @@
 ### Orange Fanta - *1.95*
 ### Lemonade - *1.95*
 ### Unsweetened Tea - *1.95*
+### Rootbeer - *1.95*
+### Koolaid - *1.95*
 ### Sweet Tea - *1.95*
 
 <br>

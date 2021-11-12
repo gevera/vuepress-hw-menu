@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{343:function(t,n,e){},376:function(t,n,e){"use strict";e(343)},405:function(t,n,e){"use strict";e.r(n);e(376);var s=e(28),i=Object(s.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"banner"},[this._t("default")],2)}),[],!1,null,"19fbddfb",null);n.default=i.exports}}]);

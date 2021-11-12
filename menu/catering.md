@@ -1,12 +1,21 @@
 # CATERING
 
-### The Pup Package - *13.50*
+<div class="hd"> Catering with convenience and love, starting at $13.50 a person with a 10-person minimum. You can choose your style of buffet or individual dishes.</div>
+
+<Banner>Orders are available for delivery on purchases exceeding $500.00</Banner>
+
+<br />
+
+### The Pup Package - _13.50_
+
 > One Meat - Two sides
 
-### The Classic Wolf - *15.00*
+### The Classic Wolf - _16.00_
+
 > Two Meats - Two Sides
 
-### The Hungry Wolf Package - *16.50*
+### The Hungry Wolf Package - _17.50_
+
 > Three Meats - Three Sides
 
 <hr>
@@ -18,11 +27,13 @@ Chicken, Pulled Pork, Brisket, Hotlinks, Ribs, Catfish
 ::: danger Side Choices:
 Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked Beans, Fries, Onion Rings, Corn, Yams, Black Eyed Peas, Cabbage, Mashed Potatoes
 :::
+
 <hr>
 
-### Appetizers - *5.50*
+### Appetizers - _5.50_
 
 > Choose any 1 of our delicious appetizers
+>
 > - Mac & Cheese Bites
 > - Chicken Tenders
 > - Chicken Gizzards
@@ -32,11 +43,12 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 
 ### Wings
 
-| 10 pcs | 20 pcs | 40 pcs | 75 pcs | 100 pcs|
-| ------ | ------ | ------ | ------ | ------ |
-|  8.50  | 13.50  | 25.00  | 45.00  | 56.00  |
+| 10 pcs | 20 pcs | 40 pcs | 75 pcs | 100 pcs |
+| ------ | ------ | ------ | ------ | ------- |
+|  10.50  | 15.50  | 27.50  | 56.50  | 68.50  |
 
 > Dipped in any of our sauces
+>
 > - Hot BBQ
 > - Sweet BBQ
 > - Honey Hot
@@ -45,27 +57,28 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 > Choose up to 2 flavors starting at 20 wings
 
 
+<br>
+<hr>
+<Banner>CATERING MUST ORDER BY THE PAN</Banner>
 
+### Desserts
 
-### Desserts - *4.00*
 > Choose any 1 of our desserts
+>
 > - Peach Cobbler
 > - Sweet Potato Pie
 > - Cherry Pudding lb Cake
 > - Chocolate lb Cake
 >
-> Ask about our Specialty Desserts
+> [See more information here](/menu/alacarte.html#by-the-pan)
 
 <br>
 <hr>
 
-### Drinks - *3.15* <Badge text="A Liter" type="error"/>
+### Drinks - _3.15_ <Badge text="A Liter" type="error"/>
+
 > 1 Liter of Any Coke Products
 
-### Cornbread - *3.50* <Badge text="A Pan" type="error"/>
-> Add cornbread to complete your meals
->
-> Four slices in a pan
 
 <br>
 <hr>
@@ -85,6 +98,15 @@ Mac, Okra, Greens, Hush Puppies, Red Beans & Rice, Potato Salad, Coleslaw, Baked
 <Disclaimer/>
 
 <style scoped>
+ .hd {
+    font-weight: 300;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: 'Birmingham';
+    font-size: 1.5rem;
+    line-height: 1.2;
+ }
+
 .cat {
    padding-top: 2rem;
    padding-bottom: 2rem;
