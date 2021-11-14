@@ -16,7 +16,7 @@ footer: Hungry Wolf BBQ & Soul Food Copyright 2020
 All of Our MEAT is Hickory Smoked
 </h3>
 
-<a href="https://www.clover.com/online-ordering/hungry-wolf-bbq-and-soul-food-aurora">
+<a href="https://www.clover.com/online-ordering/hungry-wolf-hickory-smok-aurora" target="_blank">
 <h3 class="hwfr">
 Click here to place orders online
 </h3>
@@ -53,7 +53,6 @@ Click here to place orders online
 
 <Banner>Booth Reservations $15 - Must call in advance</Banner>
 
-
 ## Telephone
 
 <h3 class="hwfb">For To-Go, Catering Orders and other inquiries call us today</h3>
@@ -86,7 +85,6 @@ Click here to place orders online
 
 <br>
 <hr/>
-
 
 <!-- <Banner>Enjoy limousine rides with</Banner>
 <img src="pic1.jpg" alt="Limousine">
